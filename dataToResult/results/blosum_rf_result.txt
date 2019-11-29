@@ -1,0 +1,153 @@
+应分到Class B1 (Secretin)_Peptide receptors_Parathyroid hormone receptors_PTH2 receptor_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Parathyroid hormone receptors_PTH1 receptor_GPCRdb_alignment
+应分到Class F (Frizzled)_Protein receptors_Frizzled_SMO_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R43_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Prostanoid receptors_EP4 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_Lysophospholipid (S1P) receptors_S1P4 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Gonadotrophin-releasing hormone receptors_GnRH1 receptor_GPCRdb_alignment, 结果Class C (Glutamate)_Sensory receptors_Taste 1 receptors_TAS1R2_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR32_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Complement peptide receptors_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_MAS1L_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Melanin-concentrating hormone_MCH2 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Relaxin family peptide receptors_RXFP4_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_Platelet-activating factor receptors_PAF receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR15_GPR3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Galanin receptors_GAL3 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Formylpeptide receptors_FPR3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Prokineticin receptors_PKR2_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Prokineticin receptors_PKR1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Sensory receptors_Opsins_Melanopsin_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Glycoprotein hormone receptors_FSH receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR84_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Calcitonin receptors_CT receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Melanin-concentrating hormone_MCH2 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Neurotensin receptors_NTS1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR132_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Angiotensin receptors_AT1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR17_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_MRGPRG_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Formylpeptide receptors_FPR3_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Galanin receptors_GAL3 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Aminergic receptors_Acetylcholine receptors (muscarinic)_M1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Nucleotide receptors_P2Y receptors_P2Y11 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_ACKR2_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Gonadotrophin-releasing hormone receptors_GnRH1 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Alicarboxylic acid receptors_Hydroxycarboxylic acid receptors_HCA2 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Alicarboxylic acid receptors_Hydroxycarboxylic acid receptors_HCA3 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Complement peptide receptors_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Somatostatin receptors_SST5 receptor_GPCRdb_alignment
+应分到Class B1 (Secretin)_Peptide receptors_Calcitonin receptors_calcitonin receptor-like receptor_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Calcitonin receptors_CT receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R46_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R31_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Free fatty acid receptors_FFA2 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_P2RY8_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Proteinase-activated receptors_PAR1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_P2RY8_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Melanocortin receptors_MC2 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Melanocortin receptors_MC3 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Nucleotide receptors_P2Y receptors_P2Y13 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Nucleotide receptors_P2Y receptors_P2Y14 receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R19_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R41_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR78_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR10_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Nucleotide receptors_P2Y receptors_P2Y12 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Nucleotide receptors_P2Y receptors_P2Y13 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_LGR4_GPCRdb_alignment, 结果Class C (Glutamate)_Orphan receptors_Class C Orphans_GPR156_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Nucleotide receptors_Adenosine receptors_A2B receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Aminergic receptors_5-Hydroxytryptamine receptors_5-HT1A receptor_5-HT1A receptor_align
+应分到Class B1 (Secretin)_Peptide receptors_VIP and PACAP receptors_VPAC2 receptor_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_GIP receptor_GPCRdb_alignment
+应分到Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_GLP-2 receptor_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_GIP receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R13_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R10_GPCRdb_alignment
+应分到Class C (Glutamate)_Amino acid receptors_Metabotropic glutamate receptors_mGlu1 receptor_GPCRdb_alignment, 结果Class C (Glutamate)_Amino acid receptors_Metabotropic glutamate receptors_mGlu3 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Lysophospholipid (LPA) receptors_LPA5 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_Prostanoid receptors_DP2 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR31_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Complement peptide receptors_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Proteinase-activated receptors_PAR4_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR20_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Endothelin receptors_ETB receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Complement peptide receptors_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_GPR18-GPR55 and GPR119_GPR55_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Prokineticin receptors_PKR1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Sensory receptors_Opsins_Short-wave-sensitive opsin 1_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Calcitonin receptors_CT receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR160_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Complement peptide receptors_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR12_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR15_GPR3_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R14_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R7_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Sensory receptors_Opsins_Opsin-5_GPCRdb_alignment, 结果Class A (Rhodopsin)_Aminergic receptors_5-Hydroxytryptamine receptors_5-HT1A receptor_5-HT1A receptor_align
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_TAAR8_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_TAAR6_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_TAAR8_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_TAAR6_GPCRdb_alignment
+应分到Class F (Frizzled)_Protein receptors_Frizzled_FZD10_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCRL2_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Nucleotide receptors_P2Y receptors_P2Y14 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Complement peptide receptors_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Angiotensin receptors_AT2 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Angiotensin receptors_AT1 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_GPR18-GPR55 and GPR119_GPR55_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR35_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Lysophospholipid (LPA) receptors_LPA5 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR132_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_MRGPRD_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCRL2_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR37_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR37L1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR63_GPCRdb_alignment, 结果Class A (Rhodopsin)_Sensory receptors_Opsins_Opsin-3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Sensory receptors_Opsins_Short-wave-sensitive opsin 1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Sensory receptors_Opsins_Melanopsin_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Platelet-activating factor receptors_PAF receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR35_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Neuropeptide Wneuropeptide B receptors_NPBW1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Neuropeptide Wneuropeptide B receptors_NPBW2 receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R7_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R9_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR174_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_Lysophospholipid (LPA) receptors_LPA5 receptor_GPCRdb_alignment
+应分到Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_glucagon receptor_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_GIP receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Galanin receptors_GAL3 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Formylpeptide receptors_FPR3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Lysophospholipid (LPA) receptors_LPA5 receptor_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R42_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Nucleotide receptors_P2Y receptors_P2Y14 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR87_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Nucleotide receptors_P2Y receptors_P2Y1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_Prostanoid receptors_DP2 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR160_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Gonadotrophin-releasing hormone receptors_GnRH1 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR63_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R41_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Proteinase-activated receptors_PAR3_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_Lysophospholipid (LPA) receptors_LPA1 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Nucleotide receptors_Adenosine receptors_A3 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_MAS1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Leukotriene receptors_BLT1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR101_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR3_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR5_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_TAAR9_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Ghrelin receptors_ghrelin receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R4_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_TAAR8_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_TAAR6_GPCRdb_alignment
+应分到Class B2 (Adhesion)_Adhesion receptors_ADGRE_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Calcitonin receptors_CT receptor_GPCRdb_alignment
+应分到Class B1 (Secretin)_Peptide receptors_Corticotropin-releasing factor receptors_CRF1 receptor_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Corticotropin-releasing factor receptors_CRF2 receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R39_GPCRdb_alignment, 结果Class C (Glutamate)_Sensory receptors_Taste 1 receptors_TAS1R3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Leukotriene receptors_BLT1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Aminergic receptors_Trace amine receptors_TA1 receptor_GPCRdb_alignment
+应分到Class B2 (Adhesion)_Adhesion receptors_ADGRF_GPCRdb_alignment, 结果Class C (Glutamate)_Sensory receptors_Taste 1 receptors_TAS1R2_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R10_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R14_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Free fatty acid receptors_GPR42_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_Free fatty acid receptors_FFA3 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR8_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR1_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R10_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Gonadotrophin-releasing hormone receptors_GnRH1 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Relaxin family peptide receptors_RXFP2_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Relaxin family peptide receptors_RXFP1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Free fatty acid receptors_FFA4 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Melanocortin receptors_MC5 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Prokineticin receptors_PKR1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Prokineticin receptors_PKR2_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R38_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Prostanoid receptors_DP2 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_Prostanoid receptors_DP1 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR5_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_XCR1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR62_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R41_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Leukotriene receptors_BLT1 receptor_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R5_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Prokineticin receptors_PKR1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Prokineticin receptors_PKR2_GPCRdb_alignment
+应分到Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_secretin receptor_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_VIP and PACAP receptors_VPAC2 receptor_GPCRdb_alignment
+应分到Class B2 (Adhesion)_Adhesion receptors_ADGRE_GPCRdb_alignment, 结果Class A (Rhodopsin)_Aminergic receptors_Acetylcholine receptors (muscarinic)_M1 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Complement peptide receptors_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Somatostatin receptors_SST3 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR182_GPCRdb_alignment, 结果Class A (Rhodopsin)_Nucleotide receptors_Adenosine receptors_A2B receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Aminergic receptors_Acetylcholine receptors (muscarinic)_M3 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Aminergic receptors_Histamine receptors_H3 receptor_GPCRdb_alignment
+应分到Other GPCRs_Orphan receptors_Other GPCR orphans_TPRA1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR132_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R46_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R9_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR37L1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Proteinase-activated receptors_PAR2_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R10_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R16_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Complement peptide receptors_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R5_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R4_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_GPR18-GPR55 and GPR119_GPR55_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Galanin receptors_GAL3 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Formylpeptide receptors_FPR3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR62_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Ghrelin receptors_ghrelin receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Alicarboxylic acid receptors_Hydroxycarboxylic acid receptors_HCA2 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR139_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR2_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR1_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R3_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_XCR1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Proteinase-activated receptors_PAR3_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Proteinase-activated receptors_PAR4_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Cholecystokinin receptors_CCK1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Cholecystokinin receptors_CCK2 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR12_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR15_GPR3_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Leukotriene receptors_BLT1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Lipid receptors_Leukotriene receptors_BLT2 receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R10_GPCRdb_alignment, 结果Class B2 (Adhesion)_Adhesion receptors_ADGRF_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Prostanoid receptors_EP4 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR6_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R39_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R40_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Relaxin family peptide receptors_RXFP2_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Parathyroid hormone receptors_PTH1 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR82_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Melanocortin receptors_MC4 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Neuropeptide S receptors_NPS receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Nucleotide receptors_Adenosine receptors_A2B receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Aminergic receptors_Adrenoceptors_ж┴2A-adrenoceptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Aminergic receptors_Adrenoceptors_ж┴2B-adrenoceptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Formylpeptide receptors_FPR1_18_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Complement peptide receptors_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR4_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR6_GPCRdb_alignment
+应分到Class B2 (Adhesion)_Adhesion receptors_ADGRG_GPCRdb_alignment, 结果Class B2 (Adhesion)_Adhesion receptors_ADGRE_GPCRdb_alignment
+应分到Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_GIP receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Prolactin-releasing peptide receptors_PrRP receptor_GPCRdb_alignment
+应分到Class C (Glutamate)_Amino acid receptors_GABAB receptors_GABAB1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR35_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR2_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Leukotriene receptors_OXE receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Gonadotrophin-releasing hormone receptors_GnRH1 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR2_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CXCR1_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R5_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Prostanoid receptors_EP2 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR149_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_GPR18-GPR55 and GPR119_GPR119_GPCRdb_alignment, 结果Class A (Rhodopsin)_Aminergic receptors_Acetylcholine receptors (muscarinic)_M1 receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R40_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Lipid receptors_Free fatty acid receptors_FFA4 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Aminergic receptors_Acetylcholine receptors (muscarinic)_M1 receptor_GPCRdb_alignment
+应分到Other GPCRs_Orphan receptors_Other GPCR orphans_GPR143_GPCRdb_alignment, 结果Class A (Rhodopsin)_Aminergic receptors_5-Hydroxytryptamine receptors_5-HT1A receptor_5-HT1A receptor_align
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR151_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR10_GPCRdb_alignment
+应分到Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_GIP receptor_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_glucagon receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR31_GPCRdb_alignment, 结果Class A (Rhodopsin)_Orphan receptors_Class A orphans_GPR132_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR2_GPCRdb_alignment, 结果Class A (Rhodopsin)_Protein receptors_Chemokine receptors_CCR5_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment, 结果Class A (Rhodopsin)_Nucleotide receptors_Adenosine receptors_A2B receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Orexin receptors_OX1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Orexin receptors_OX2 receptor_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Aminergic receptors_Trace amine receptors_TA1 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Melanocortin receptors_MC5 receptor_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R3_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment
+应分到Class A (Rhodopsin)_Peptide receptors_Galanin receptors_GAL3 receptor_GPCRdb_alignment, 结果Class A (Rhodopsin)_Peptide receptors_Formylpeptide receptors_FPR3_GPCRdb_alignment
+应分到Taste 2_Sensory receptors_Taste 2 receptors_TAS2R5_GPCRdb_alignment, 结果Taste 2_Sensory receptors_Taste 2 receptors_TAS2R1_GPCRdb_alignment
+应分到Class B1 (Secretin)_Peptide receptors_Parathyroid hormone receptors_PTH1 receptor_GPCRdb_alignment, 结果Class B1 (Secretin)_Peptide receptors_Glucagon receptor family_GIP receptor_GPCRdb_alignment
+0.9414998036906164
+family level:         0.9897919120533961
+subfamily level:      0.9736945425991362
+sub-subfamily level:  0.9650569297212407
