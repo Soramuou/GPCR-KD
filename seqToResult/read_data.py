@@ -4,7 +4,7 @@ count = 0
 # 读取所有数据
 def read_all_data():
     data_of_each_family = dict()
-    for dir_name,  _, all_file in os.walk("./result"):
+    for dir_name,  _, all_file in os.walk("./new_data"):
         for filename in all_file:
             if 1:
                 famliy_name = filename.split(".")[0]

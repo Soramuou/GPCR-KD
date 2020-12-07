@@ -12,7 +12,7 @@ def extract_feature(data_of_all_family):
     family_nums = len(data_of_all_family)
 
     all_feature_seqs = extract_all_word(data_of_all_family)  # 提取所有满足条件的特征序列
-    all_main_seqs = extract_all_main_seq(all_feature_seqs) # 提取所有主序列
+    all_main_seqs = extract_all_main_seq(all_feature_seqs)  # 提取所有主序列
     return list(all_main_seqs)
 
 
@@ -154,7 +154,7 @@ def cal_p(aa):
 
 
 def cal_SP(M1, M2):
-    return cal_SM(M1, M2) / cal_SM(M1, M2)
+    return cal_SM(M1, M2) / cal_SM(M1, M1)
 
 
 def cal_SM(M1, M2):
