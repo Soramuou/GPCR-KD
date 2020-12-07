@@ -20,6 +20,13 @@ for data in all_family_data.values():
     sum_num += len(data)
 print(time.ctime(),":", "数据总量：",sum_num)
 features = extract_feature(all_family_data)
+dict_feature = {}
+for feature in features:
+    if len(feature) in dict_feature.keys():
+        dict_feature[len(feature)] +=1
+    else:
+        dict_feature[len(feature)] = 1
+print(sorted(dict_feature.items(), key=lambda d: d[0], reverse=False))
 print(features, len(features))
 
 family_names ={}
