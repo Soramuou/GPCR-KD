@@ -3,7 +3,9 @@ import pickle
 import threading
 
 from sklearn import preprocessing
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 from sklearn.neural_network import MLPClassifier
 import numpy as np
@@ -42,27 +44,37 @@ def get_data():
     return x, y
 
 
+def classifier_factory(classifier_name):
+    if classifier_name == "MLPClassifier":
+        return MLPClassifier(hidden_layer_sizes=(2000,2000), max_iter=1000)
+    elif classifier_name == "SVC":
+        return SVC()
+    elif classifier_name =="RandomForestClassifier":
+        return RandomForestClassifier()
+    elif classifier_name == "GaussianNB":
+        return GaussianNB()
+
 def preprocess(x):
     X_train = preprocessing.scale(np.array(x))
     return X_train
 
 
 def classifier(x, y):
-    #clf = MLPClassifier(hidden_layer_sizes=(2000,2000), max_iter=1000)
-    clf = SVC()
+    clf = classifier_factory(SVC)
     clf.fit(x, y)
     return clf
 
-print(time.ctime(), ":" ,'开始处理数据!')
+
+print(time.ctime(), ":", '开始处理数据!')
 x, y = get_data()
 
-print(time.ctime(), ":" ,'len(x): {}, len(y): {}, len(x[0]): {}', len(x), len(y), len(x[0]))
-print(time.ctime(), ":" ,'开始写入数据到文件!')
+print(time.ctime(), ":", 'len(x): {}, len(y): {}, len(x[0]): {}', len(x), len(y), len(x[0]))
+print(time.ctime(), ":", '开始写入数据到文件!')
 with open("data", 'wb') as f:
     pickle.dump(family_names,f)
     pickle.dump(x,f)
     pickle.dump(y,f)
-print(time.ctime(), ":" ,'写入数据完毕, 开始预处理!')
+print(time.ctime(), ":", '写入数据完毕, 开始预处理!')
 x = preprocess(x)
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=1)
 
@@ -72,11 +84,11 @@ try:
 except Exception as e:
     print(time.ctime(), ":","读取长度失败：", e)
 
-print(time.ctime(), ":" ,"开始训练!")
+print(time.ctime(), ":", "开始训练!")
 clf = classifier(x_train, y_train)
-print(time.ctime(), ":" ,"开始预测!")
+print(time.ctime(), ":", "开始预测!")
 result = clf.predict(x_test)
-print(time.ctime(), ":" ,"预测完毕, 开始写入结果!")
+print(time.ctime(), ":", "预测完毕, 开始写入结果!")
 count = 0
 
 with open('./result.txt', 'w') as f:

@@ -1,6 +1,6 @@
 # GPCR-KD
 
-the code for paper "GPCR-KD: A Knowledge Discovery based Method for the Classification of G-protein-coupled Receptors"
+This code is GPCR-KD's Program.
 
 ## Abstract
 
@@ -11,3 +11,5 @@ A significant number of machine learning-based algorithms have been developed fo
 ### Results
 
 The study classified 12,731 GPCR sequences. Four classic machine-learning algorithms—Naïve Bayesian (NB), Random Forest (SF), Supporting Vector Machine (SVM), and Multi-Layer Perception (MLP)—were adopted to perform the classification on all GPCR class levels. Surprisingly, the novel feature-knowledge-mining strategy helped all classifiers achieve significant improvement in all test cases. Specifically, the MLP-based neural network classifier achieved an average accuracy of 99.84%, 99.69%, 99.49%, and 98.19% at the family level, subfamily level (level I), sub-subfamily level (level II), and subtype level (level III), respectively. Compared to the prior methods using identical dataset, the classification error is reduce.
+
+
